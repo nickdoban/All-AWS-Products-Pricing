@@ -13,3 +13,4 @@ Future work might include:
 1. running the code on a server to show the processed dataframes on a nice dashboard: charts and/or tables (like https://www.ec2instances.info/)
 2. limiting to a certain list of AWS products
 3. maybe more specific error emails
+4. Step 4 in 'main.py'
