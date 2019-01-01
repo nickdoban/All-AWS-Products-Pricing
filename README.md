@@ -6,6 +6,7 @@ This is more or less WIP mini-project. By default it will download ALL AWS produ
 How to:
 1. update the config filewith your info
 2. update the 'emailTo' in main.py (can be just one email address)
+3. run 'main.py'
 
 
 
