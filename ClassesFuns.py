@@ -1,7 +1,7 @@
- ###############################################################################
+###############################################################################
+                                    # FUNCTIONS AND CLASSES
 import json, requests
 from collections import OrderedDict
-                                    # FUNCTIONS AND CLASSES
 # function to send email to gmail
 def send_email(fromaddr, pwd, toaddr, Subject, body):
     import smtplib
