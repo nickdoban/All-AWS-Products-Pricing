@@ -1,0 +1,10 @@
+{
+
+    "emailFrom": "email_from",
+    "password": "email_password",
+    "emailSubject": "email_Subject",
+    
+    "url_offer": "https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/index.json",
+    "path_savedOffers": "C:/example/FolderOffers/"
+
+}
